@@ -1,0 +1,18 @@
+# .gitignore
+
+# General
+.DS_Store
+
+# server
+server/node_modules
+server/npm-debug.log
+server/*.env
+server/dist
+server/build
+
+# client
+client/node_modules
+client/npm-debug.log
+client/*.env
+client/dist
+client/build
